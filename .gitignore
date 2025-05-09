@@ -1,4 +1,8 @@
 node_modules/
 frontend/node_modules/
+<<<<<<< HEAD
 .env
+=======
+.env/
+>>>>>>> 3853c1a475185bed75c244ffc0720e16b311baf7
 
